@@ -10,6 +10,11 @@
     "categorie_principale": "Chaluts"
   },
   {
+    "code_alpha3": "OTT",
+    "nom_francais": "Chalut jumeau à panneaux",
+    "categorie_principale": "Chaluts"
+  },
+  {
     "code_alpha3": "PTM",
     "nom_francais": "Chalut-bœuf pélagique",
     "categorie_principale": "Chaluts"
