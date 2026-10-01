@@ -224,5 +224,153 @@
     "nom_francais": "Anguille",
     "nom_scientifique": "Anguilla anguilla",
     "taille_minimale_reglementaire": null
+  },
+  {
+    "code_alpha3": "HOM",
+    "nom_francais": "Chinchard d'Europe",
+    "nom_scientifique": "Trachurus trachurus",
+    "taille_minimale_reglementaire": 15
+  },
+  {
+    "code_alpha3": "MAC",
+    "nom_francais": "Maquereau commun",
+    "nom_scientifique": "Scomber scombrus",
+    "taille_minimale_reglementaire": 18
+  },
+  {
+    "code_alpha3": "MAS",
+    "nom_francais": "Maquereau espagnol",
+    "nom_scientifique": "Scomber japonicus",
+    "taille_minimale_reglementaire": 18
+  },
+  {
+    "code_alpha3": "BOG",
+    "nom_francais": "Bogue",
+    "nom_scientifique": "Boops boops",
+    "taille_minimale_reglementaire": null,
+    "note": "Pas de taille minimale Méditerranée identifiée"
+  },
+  {
+    "code_alpha3": "BLU",
+    "nom_francais": "Tassergal",
+    "nom_scientifique": "Pomatomus saltatrix",
+    "taille_minimale_reglementaire": null,
+    "note": "Pas de taille minimale Méditerranée identifiée (existe en Atlantique)"
+  },
+  {
+    "code_alpha3": "COE",
+    "nom_francais": "Congre d'Europe",
+    "nom_scientifique": "Conger conger",
+    "taille_minimale_reglementaire": null,
+    "note": "Pas de taille minimale Méditerranée identifiée (existe en Atlantique)"
+  },
+  {
+    "code_alpha3": "BLL",
+    "nom_francais": "Barbue",
+    "nom_scientifique": "Scophthalmus rhombus",
+    "taille_minimale_reglementaire": null,
+    "note": "Pas de taille minimale Méditerranée identifiée (existe en Atlantique)"
+  },
+  {
+    "code_alpha3": "TUR",
+    "nom_francais": "Turbot",
+    "nom_scientifique": "Scophthalmus maximus",
+    "taille_minimale_reglementaire": null,
+    "note": "Pas de taille minimale Méditerranée identifiée (existe en Atlantique)"
+  },
+  {
+    "code_alpha3": "GUR",
+    "nom_francais": "Grondin rouge",
+    "nom_scientifique": "Chelidonichthys cuculus",
+    "taille_minimale_reglementaire": null,
+    "note": "Pas de taille minimale Méditerranée identifiée (existe en Atlantique)"
+  },
+  {
+    "code_alpha3": "CTC",
+    "nom_francais": "Seiche commune",
+    "nom_scientifique": "Sepia officinalis",
+    "taille_minimale_reglementaire": null,
+    "note": "Pas de taille minimale Méditerranée identifiée (existe en Atlantique)"
+  },
+  {
+    "code_alpha3": "POD",
+    "nom_francais": "Capelan de Méditerranée",
+    "nom_scientifique": "Trisopterus minutus",
+    "taille_minimale_reglementaire": null
+  },
+  {
+    "code_alpha3": "BOY",
+    "nom_francais": "Murex à droite épineux",
+    "nom_scientifique": "Bolinus brandaris",
+    "taille_minimale_reglementaire": null
+  },
+  {
+    "code_alpha3": "MNZ",
+    "nom_francais": "Baudroies (groupe)",
+    "nom_scientifique": "Lophius spp.",
+    "taille_minimale_reglementaire": null,
+    "note": "Code groupe/genre (Lophiidae)"
+  },
+  {
+    "code_alpha3": "LEF",
+    "nom_francais": "Arnoglosses, rombous (groupe)",
+    "nom_scientifique": "Bothidae",
+    "taille_minimale_reglementaire": null,
+    "note": "Code groupe/famille"
+  },
+  {
+    "code_alpha3": "ILL",
+    "nom_francais": "Encornets rouges (groupe)",
+    "nom_scientifique": "Illex spp.",
+    "taille_minimale_reglementaire": null,
+    "note": "Code groupe/genre (Ommastrephidae)"
+  },
+  {
+    "code_alpha3": "GUX",
+    "nom_francais": "Grondins, cavillons (groupe)",
+    "nom_scientifique": "Triglidae",
+    "taille_minimale_reglementaire": null,
+    "note": "Code groupe/famille"
+  },
+  {
+    "code_alpha3": "OCT",
+    "nom_francais": "Pieuvres, poulpes (groupe)",
+    "nom_scientifique": "Octopodidae",
+    "taille_minimale_reglementaire": null,
+    "note": "Code groupe/famille — distinct de OCC (Octopus vulgaris)"
+  },
+  {
+    "code_alpha3": "SQZ",
+    "nom_francais": "Calmars côtiers (groupe)",
+    "nom_scientifique": "Loliginidae",
+    "taille_minimale_reglementaire": null,
+    "note": "Code groupe/famille"
+  },
+  {
+    "code_alpha3": "RAJ",
+    "nom_francais": "Rajidés — raies (groupe)",
+    "nom_scientifique": "Rajidae",
+    "taille_minimale_reglementaire": null,
+    "note": "Code groupe/famille"
+  },
+  {
+    "code_alpha3": "SQY",
+    "nom_francais": "Squilles (groupe)",
+    "nom_scientifique": "Squillidae",
+    "taille_minimale_reglementaire": null,
+    "note": "Code groupe/famille"
+  },
+  {
+    "code_alpha3": "OUL",
+    "nom_francais": "Casseron commun",
+    "nom_scientifique": "Alloteuthis subulata",
+    "taille_minimale_reglementaire": null
+  },
+  {
+    "code_alpha3": "GOB",
+    "nom_francais": "Gobies de l'Atlantique (groupe)",
+    "nom_scientifique": "Gobius spp.",
+    "taille_minimale_reglementaire": null,
+    "note": "Code groupe/genre"
   }
 ]
