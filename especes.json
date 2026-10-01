@@ -7,12 +7,6 @@
     "note": "Régime quota/poids spécifique"
   },
   {
-    "code_alpha3": "SWO",
-    "nom_francais": "Espadon",
-    "nom_scientifique": "Xiphias gladius",
-    "taille_minimale_reglementaire": 100
-  },
-  {
     "code_alpha3": "ALB",
     "nom_francais": "Germon",
     "nom_scientifique": "Thunnus alalunga",
@@ -37,10 +31,10 @@
     "taille_minimale_reglementaire": null
   },
   {
-    "code_alpha3": "HKE",
-    "nom_francais": "Merlu européen",
-    "nom_scientifique": "Merluccius merluccius",
-    "taille_minimale_reglementaire": 20
+    "code_alpha3": "SWO",
+    "nom_francais": "Espadon",
+    "nom_scientifique": "Xiphias gladius",
+    "taille_minimale_reglementaire": 100
   },
   {
     "code_alpha3": "BSS",
@@ -49,28 +43,83 @@
     "taille_minimale_reglementaire": 25
   },
   {
-    "code_alpha3": "SOL",
-    "nom_francais": "Sole commune",
-    "nom_scientifique": "Solea solea",
-    "taille_minimale_reglementaire": 20
+    "code_alpha3": "SWA",
+    "nom_francais": "Sar commun",
+    "nom_scientifique": "Diplodus sargus",
+    "taille_minimale_reglementaire": 23
   },
   {
-    "code_alpha3": "PAC",
-    "nom_francais": "Daurade royale",
+    "code_alpha3": "CTB",
+    "nom_francais": "Sar à tête noire",
+    "nom_scientifique": "Diplodus vulgaris",
+    "taille_minimale_reglementaire": 18
+  },
+  {
+    "code_alpha3": "SHR",
+    "nom_francais": "Sar à museau pointu",
+    "nom_scientifique": "Diplodus puntazzo",
+    "taille_minimale_reglementaire": 18
+  },
+  {
+    "code_alpha3": "ANN",
+    "nom_francais": "Sparaillon",
+    "nom_scientifique": "Diplodus annularis",
+    "taille_minimale_reglementaire": 12
+  },
+  {
+    "code_alpha3": "SBG",
+    "nom_francais": "Dorade royale",
     "nom_scientifique": "Sparus aurata",
     "taille_minimale_reglementaire": 20
   },
   {
-    "code_alpha3": "DEN",
+    "code_alpha3": "PAC",
+    "nom_francais": "Pageot commun",
+    "nom_scientifique": "Pagellus erythrinus",
+    "taille_minimale_reglementaire": 15
+  },
+  {
+    "code_alpha3": "SBA",
+    "nom_francais": "Pageot acarné",
+    "nom_scientifique": "Pagellus acarne",
+    "taille_minimale_reglementaire": 17
+  },
+  {
+    "code_alpha3": "SBR",
+    "nom_francais": "Dorade rose",
+    "nom_scientifique": "Pagellus bogaraveo",
+    "taille_minimale_reglementaire": 33
+  },
+  {
+    "code_alpha3": "RPG",
+    "nom_francais": "Pagre commun",
+    "nom_scientifique": "Pagrus pagrus",
+    "taille_minimale_reglementaire": 18
+  },
+  {
+    "code_alpha3": "SSB",
+    "nom_francais": "Marbré",
+    "nom_scientifique": "Lithognathus mormyrus",
+    "taille_minimale_reglementaire": 20
+  },
+  {
+    "code_alpha3": "DEC",
     "nom_francais": "Denté commun",
     "nom_scientifique": "Dentex dentex",
     "taille_minimale_reglementaire": 18
   },
   {
-    "code_alpha3": "SBG",
-    "nom_francais": "Sar commun",
-    "nom_scientifique": "Diplodus sargus",
-    "taille_minimale_reglementaire": 23
+    "code_alpha3": "GPX",
+    "nom_francais": "Mérous (groupe)",
+    "nom_scientifique": "Epinephelus spp.",
+    "taille_minimale_reglementaire": 45,
+    "note": "Code groupe/genre (Règlt 2019/1241) — plusieurs espèces de mérous"
+  },
+  {
+    "code_alpha3": "WRF",
+    "nom_francais": "Cernier commun",
+    "nom_scientifique": "Polyprion americanus",
+    "taille_minimale_reglementaire": 45
   },
   {
     "code_alpha3": "MUT",
@@ -85,6 +134,18 @@
     "taille_minimale_reglementaire": 11
   },
   {
+    "code_alpha3": "HKE",
+    "nom_francais": "Merlu européen",
+    "nom_scientifique": "Merluccius merluccius",
+    "taille_minimale_reglementaire": 20
+  },
+  {
+    "code_alpha3": "SOL",
+    "nom_francais": "Sole commune",
+    "nom_scientifique": "Solea solea",
+    "taille_minimale_reglementaire": 20
+  },
+  {
     "code_alpha3": "ANE",
     "nom_francais": "Anchois",
     "nom_scientifique": "Engraulis encrasicolus",
@@ -97,22 +158,60 @@
     "taille_minimale_reglementaire": 11
   },
   {
+    "code_alpha3": "MAZ",
+    "nom_francais": "Maquereaux (groupe)",
+    "nom_scientifique": "Scomber spp.",
+    "taille_minimale_reglementaire": 18,
+    "note": "Code groupe/genre — espèce précise : MAC (S. scombrus), MAS (S. japonicus)"
+  },
+  {
+    "code_alpha3": "JAX",
+    "nom_francais": "Chinchards (groupe)",
+    "nom_scientifique": "Trachurus spp.",
+    "taille_minimale_reglementaire": 15,
+    "note": "Code groupe/genre (Règlt 2019/1241)"
+  },
+  {
     "code_alpha3": "DPS",
-    "nom_francais": "Crevette rouge",
+    "nom_francais": "Crevette rose du large",
     "nom_scientifique": "Parapenaeus longirostris",
-    "taille_minimale_reglementaire": null
+    "taille_minimale_reglementaire": null,
+    "note": "20 mm de longueur de carapace (LC) — pas une longueur totale"
   },
   {
     "code_alpha3": "NEP",
     "nom_francais": "Langoustine",
     "nom_scientifique": "Nephrops norvegicus",
-    "taille_minimale_reglementaire": null
+    "taille_minimale_reglementaire": null,
+    "note": "20 mm de longueur de carapace (LC) — pas une longueur totale"
   },
   {
-    "code_alpha3": "CTC",
+    "code_alpha3": "SLO",
     "nom_francais": "Langouste rouge",
     "nom_scientifique": "Palinurus elephas",
-    "taille_minimale_reglementaire": null
+    "taille_minimale_reglementaire": null,
+    "note": "90 mm de longueur de carapace (LC) — pas une longueur totale"
+  },
+  {
+    "code_alpha3": "VLO",
+    "nom_francais": "Langoustes (groupe, hors rouge)",
+    "nom_scientifique": "Palinuridae spp.",
+    "taille_minimale_reglementaire": null,
+    "note": "90 mm de longueur de carapace (LC) — code groupe/famille"
+  },
+  {
+    "code_alpha3": "LBE",
+    "nom_francais": "Homard européen",
+    "nom_scientifique": "Homarus gammarus",
+    "taille_minimale_reglementaire": null,
+    "note": "105 mm de longueur de carapace (LC) — pas une longueur totale"
+  },
+  {
+    "code_alpha3": "SJA",
+    "nom_francais": "Coquille Saint-Jacques",
+    "nom_scientifique": "Pecten jacobaeus",
+    "taille_minimale_reglementaire": 10,
+    "note": "Diamètre de la coquille"
   },
   {
     "code_alpha3": "OCC",
