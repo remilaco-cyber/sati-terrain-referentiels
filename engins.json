@@ -1,0 +1,72 @@
+[
+  {
+    "code_alpha3": "OTB",
+    "nom_francais": "Chalut de fond à panneaux",
+    "categorie_principale": "Chaluts"
+  },
+  {
+    "code_alpha3": "OTM",
+    "nom_francais": "Chalut pélagique à panneaux",
+    "categorie_principale": "Chaluts"
+  },
+  {
+    "code_alpha3": "PTM",
+    "nom_francais": "Chalut-bœuf pélagique",
+    "categorie_principale": "Chaluts"
+  },
+  {
+    "code_alpha3": "GNS",
+    "nom_francais": "Filet maillant calé",
+    "categorie_principale": "Filets maillants et filets emmêlants"
+  },
+  {
+    "code_alpha3": "GTR",
+    "nom_francais": "Trémail",
+    "categorie_principale": "Filets maillants et filets emmêlants"
+  },
+  {
+    "code_alpha3": "GND",
+    "nom_francais": "Filet maillant dérivant",
+    "categorie_principale": "Filets maillants et filets emmêlants"
+  },
+  {
+    "code_alpha3": "LLS",
+    "nom_francais": "Palangre calée",
+    "categorie_principale": "Lignes et hameçons"
+  },
+  {
+    "code_alpha3": "LLD",
+    "nom_francais": "Palangre dérivante",
+    "categorie_principale": "Lignes et hameçons"
+  },
+  {
+    "code_alpha3": "LHP",
+    "nom_francais": "Ligne à main",
+    "categorie_principale": "Lignes et hameçons"
+  },
+  {
+    "code_alpha3": "FPO",
+    "nom_francais": "Casier / nasse",
+    "categorie_principale": "Casiers et pièges"
+  },
+  {
+    "code_alpha3": "PS",
+    "nom_francais": "Senne coulissante",
+    "categorie_principale": "Sennes tournantes"
+  },
+  {
+    "code_alpha3": "SB",
+    "nom_francais": "Senne de plage",
+    "categorie_principale": "Sennes de plage"
+  },
+  {
+    "code_alpha3": "DRB",
+    "nom_francais": "Drague remorquée",
+    "categorie_principale": "Dragues"
+  },
+  {
+    "code_alpha3": "HAR",
+    "nom_francais": "Harpon",
+    "categorie_principale": "Engins divers"
+  }
+]

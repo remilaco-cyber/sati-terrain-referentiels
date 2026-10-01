@@ -1,0 +1,129 @@
+[
+  {
+    "code_alpha3": "BFT",
+    "nom_francais": "Thon rouge",
+    "nom_scientifique": "Thunnus thynnus",
+    "taille_minimale_reglementaire": null,
+    "note": "Régime quota/poids spécifique"
+  },
+  {
+    "code_alpha3": "SWO",
+    "nom_francais": "Espadon",
+    "nom_scientifique": "Xiphias gladius",
+    "taille_minimale_reglementaire": 100
+  },
+  {
+    "code_alpha3": "ALB",
+    "nom_francais": "Germon",
+    "nom_scientifique": "Thunnus alalunga",
+    "taille_minimale_reglementaire": null
+  },
+  {
+    "code_alpha3": "YFT",
+    "nom_francais": "Albacore",
+    "nom_scientifique": "Thunnus albacares",
+    "taille_minimale_reglementaire": null
+  },
+  {
+    "code_alpha3": "BET",
+    "nom_francais": "Thon obèse",
+    "nom_scientifique": "Thunnus obesus",
+    "taille_minimale_reglementaire": null
+  },
+  {
+    "code_alpha3": "SKJ",
+    "nom_francais": "Listao",
+    "nom_scientifique": "Katsuwonus pelamis",
+    "taille_minimale_reglementaire": null
+  },
+  {
+    "code_alpha3": "HKE",
+    "nom_francais": "Merlu européen",
+    "nom_scientifique": "Merluccius merluccius",
+    "taille_minimale_reglementaire": 20
+  },
+  {
+    "code_alpha3": "BSS",
+    "nom_francais": "Bar commun (loup)",
+    "nom_scientifique": "Dicentrarchus labrax",
+    "taille_minimale_reglementaire": 25
+  },
+  {
+    "code_alpha3": "SOL",
+    "nom_francais": "Sole commune",
+    "nom_scientifique": "Solea solea",
+    "taille_minimale_reglementaire": 20
+  },
+  {
+    "code_alpha3": "PAC",
+    "nom_francais": "Daurade royale",
+    "nom_scientifique": "Sparus aurata",
+    "taille_minimale_reglementaire": 20
+  },
+  {
+    "code_alpha3": "DEN",
+    "nom_francais": "Denté commun",
+    "nom_scientifique": "Dentex dentex",
+    "taille_minimale_reglementaire": 18
+  },
+  {
+    "code_alpha3": "SBG",
+    "nom_francais": "Sar commun",
+    "nom_scientifique": "Diplodus sargus",
+    "taille_minimale_reglementaire": 23
+  },
+  {
+    "code_alpha3": "MUT",
+    "nom_francais": "Rouget de vase",
+    "nom_scientifique": "Mullus barbatus",
+    "taille_minimale_reglementaire": 11
+  },
+  {
+    "code_alpha3": "MUR",
+    "nom_francais": "Rouget de roche",
+    "nom_scientifique": "Mullus surmuletus",
+    "taille_minimale_reglementaire": 11
+  },
+  {
+    "code_alpha3": "ANE",
+    "nom_francais": "Anchois",
+    "nom_scientifique": "Engraulis encrasicolus",
+    "taille_minimale_reglementaire": 9
+  },
+  {
+    "code_alpha3": "PIL",
+    "nom_francais": "Sardine",
+    "nom_scientifique": "Sardina pilchardus",
+    "taille_minimale_reglementaire": 11
+  },
+  {
+    "code_alpha3": "DPS",
+    "nom_francais": "Crevette rouge",
+    "nom_scientifique": "Parapenaeus longirostris",
+    "taille_minimale_reglementaire": null
+  },
+  {
+    "code_alpha3": "NEP",
+    "nom_francais": "Langoustine",
+    "nom_scientifique": "Nephrops norvegicus",
+    "taille_minimale_reglementaire": null
+  },
+  {
+    "code_alpha3": "CTC",
+    "nom_francais": "Langouste rouge",
+    "nom_scientifique": "Palinurus elephas",
+    "taille_minimale_reglementaire": null
+  },
+  {
+    "code_alpha3": "OCC",
+    "nom_francais": "Poulpe commun",
+    "nom_scientifique": "Octopus vulgaris",
+    "taille_minimale_reglementaire": null
+  },
+  {
+    "code_alpha3": "ELE",
+    "nom_francais": "Anguille",
+    "nom_scientifique": "Anguilla anguilla",
+    "taille_minimale_reglementaire": null
+  }
+]
