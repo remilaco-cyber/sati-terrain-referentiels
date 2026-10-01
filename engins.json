@@ -15,6 +15,11 @@
     "categorie_principale": "Chaluts"
   },
   {
+    "code_alpha3": "PTB",
+    "nom_francais": "Chalut-bœuf de fond à panneaux",
+    "categorie_principale": "Chaluts"
+  },
+  {
     "code_alpha3": "PTM",
     "nom_francais": "Chalut-bœuf pélagique",
     "categorie_principale": "Chaluts"
@@ -35,6 +40,16 @@
     "categorie_principale": "Filets maillants et filets emmêlants"
   },
   {
+    "code_alpha3": "GTN",
+    "nom_francais": "Filet combiné trémail/maillant",
+    "categorie_principale": "Filets maillants et filets emmêlants"
+  },
+  {
+    "code_alpha3": "GNC",
+    "nom_francais": "Filet maillant encerclant",
+    "categorie_principale": "Filets maillants et filets emmêlants"
+  },
+  {
     "code_alpha3": "LLS",
     "nom_francais": "Palangre calée",
     "categorie_principale": "Lignes et hameçons"
@@ -50,13 +65,38 @@
     "categorie_principale": "Lignes et hameçons"
   },
   {
+    "code_alpha3": "LHM",
+    "nom_francais": "Ligne à main mécanisée",
+    "categorie_principale": "Lignes et hameçons"
+  },
+  {
+    "code_alpha3": "LTL",
+    "nom_francais": "Ligne traînante (traîne)",
+    "categorie_principale": "Lignes et hameçons"
+  },
+  {
     "code_alpha3": "FPO",
     "nom_francais": "Casier / nasse",
     "categorie_principale": "Casiers et pièges"
   },
   {
+    "code_alpha3": "FYK",
+    "nom_francais": "Verveux",
+    "categorie_principale": "Casiers et pièges"
+  },
+  {
+    "code_alpha3": "FWR",
+    "nom_francais": "Barrage / bordigue (pêcherie fixe à barrières)",
+    "categorie_principale": "Casiers et pièges"
+  },
+  {
     "code_alpha3": "PS",
     "nom_francais": "Senne coulissante",
+    "categorie_principale": "Sennes tournantes"
+  },
+  {
+    "code_alpha3": "LA",
+    "nom_francais": "Lamparo (senne sans lignes de bourse)",
     "categorie_principale": "Sennes tournantes"
   },
   {
@@ -70,8 +110,18 @@
     "categorie_principale": "Dragues"
   },
   {
+    "code_alpha3": "DRH",
+    "nom_francais": "Drague à main",
+    "categorie_principale": "Dragues"
+  },
+  {
     "code_alpha3": "HAR",
     "nom_francais": "Harpon",
+    "categorie_principale": "Engins divers"
+  },
+  {
+    "code_alpha3": "MIS",
+    "nom_francais": "Récolte à la main (avec ou sans plongée)",
     "categorie_principale": "Engins divers"
   }
 ]
