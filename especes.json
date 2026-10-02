@@ -34,7 +34,8 @@
     "code_alpha3": "SWO",
     "nom_francais": "Espadon",
     "nom_scientifique": "Xiphias gladius",
-    "taille_minimale_reglementaire": 100
+    "taille_minimale_reglementaire": 100,
+    "note": "Ou 11,4 kg poids vif / 10,2 kg éviscéré sans branchies (Méditerranée)"
   },
   {
     "code_alpha3": "BSS",
@@ -372,5 +373,42 @@
     "nom_scientifique": "Gobius spp.",
     "taille_minimale_reglementaire": null,
     "note": "Code groupe/genre"
+  },
+  {
+    "code_alpha3": "SCR",
+    "nom_francais": "Araignée de mer",
+    "nom_scientifique": "Maja squinado",
+    "taille_minimale_reglementaire": 12
+  },
+  {
+    "code_alpha3": "URP",
+    "nom_francais": "Oursin",
+    "nom_scientifique": "Paracentrotus lividus",
+    "taille_minimale_reglementaire": 5,
+    "note": "5 cm hors piquants en mer, 3,5 cm hors piquants en étang (ex. étang de Thau)"
+  },
+  {
+    "code_alpha3": "PNV",
+    "nom_francais": "Grande nacre",
+    "nom_scientifique": "Pinna nobilis",
+    "taille_minimale_reglementaire": null,
+    "interdite": true,
+    "zone_interdiction": "Méditerranée (UE) — espèce protégée, pêche totalement interdite"
+  },
+  {
+    "code_alpha3": "LFF",
+    "nom_francais": "Datte de mer (datte lithophage)",
+    "nom_scientifique": "Lithophaga lithophaga",
+    "taille_minimale_reglementaire": null,
+    "interdite": true,
+    "zone_interdiction": "Méditerranée (UE) — pêche/détention/vente totalement interdites (destruction de l'habitat rocheux)"
+  },
+  {
+    "code_alpha3": "AGN",
+    "nom_francais": "Ange de mer commun",
+    "nom_scientifique": "Squatina squatina",
+    "taille_minimale_reglementaire": null,
+    "interdite": true,
+    "zone_interdiction": "Toutes les eaux de l'Union — espèce protégée, remise à l'eau obligatoire"
   }
 ]
